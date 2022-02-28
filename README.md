@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]()
-- Live Site URL: [live site URL]()
+- Solution URL: [solution URL](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3-column-preview-card-component-with-html-sass-and-flexbox-mfPCFtvV5)
+- Live Site URL: [live site URL](https://nuelobeto.github.io/3-column-card/)
 
 ### Built with
 
